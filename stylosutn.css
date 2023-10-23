@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+body{
+    margin: auto 0;
+    padding: auto 0 ;
+    background-image: url(img/f.jpg);
+    background-repeat: no-repeat;
+   /* background-attachment: fixed;*/
+    background-position: center center;
+    background-size: cover;
+    font-family: 'Roboto Mono', monospace;
+}
+.logo{
+    border-radius: 50%;
+}
+
+
+.nav-link:hover{
+    color: #c1001e;
+}
+.name{
+    width: 300px;
+    height: 300px;
+    margin-left: 40px;
+    border-left: solid;
+    color: white;
+    border-color:  #c1001e;
+}
+
+.perfil{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.direc{
+    border-left: solid;
+    color: white;
+    border-color:  #c1001e;
+    margin-left: 40px;
+}
+
+
+svg{
+    width: 30px;
+    height: 30px;
+    color:white;
+    margin-right: 10px;
+}
+
+svg:hover{
+    color:#c1001e;
+}
+
+.card{
+background: none;
+border: none;
+}
+.tarjeta{
+    border-color: #c1001e;
+}
+
+
